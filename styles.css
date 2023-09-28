@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.card{
+	width:100vw;
+	height:100vh;
+	background-color:rgb(204, 204, 204);
+	
+}
+.card>h1{
+	text-align:center;
+}
+.hero{
+	margin:20px 20px;
+	padding:10px;
+	background-color:white;
+	box-sizing:border-box;
+	border:2px solid black;
+}
+.card>h3{
+	text-align:center;
+}
+.body{
+	margin:30px;
+	background-color:white;
+}
+		
